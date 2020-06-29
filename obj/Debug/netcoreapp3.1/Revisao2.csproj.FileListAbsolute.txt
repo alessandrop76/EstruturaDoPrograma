@@ -1,0 +1,13 @@
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.exe
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.deps.json
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.runtimeconfig.json
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.runtimeconfig.dev.json
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.dll
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\bin\Debug\netcoreapp3.1\Revisao2.pdb
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.csprojAssemblyReference.cache
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.AssemblyInfoInputs.cache
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.AssemblyInfo.cs
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.csproj.CoreCompileInputs.cache
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.dll
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.pdb
+C:\Users\Aless\documents\desenvolvimento\digitalinovationone-2020\32-.NetC#\Revisao2\obj\Debug\netcoreapp3.1\Revisao2.genruntimeconfig.cache
